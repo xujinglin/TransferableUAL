@@ -11,5 +11,7 @@ This repository contains the FS-Falls dataset and PyTorch implementation for Tra
 
 ## OOPS
 
+Please refer to [[OOPS]](https://github.com/cvlab-columbia/oops).
+
 ## FS-Falls
 
